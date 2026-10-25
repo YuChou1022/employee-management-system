@@ -1,0 +1,22 @@
+﻿# ---- Visual Studio / 生成输出 ----
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.user
+*.suo
+*.pdb
+*.exe
+*.ilk
+*.obj
+*.tlog
+*.lastbuildstate
+*.idb
+*.exp
+*.lib
+
+# ---- 通用 ----
+*.log
+Thumbs.db
+desktop.ini
