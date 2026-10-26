@@ -1,0 +1,10 @@
+# ---- Visual Studio / CMake 生成物 ----
+.vs/
+out/
+CMakeUserPresets.json
+*.user
+
+# ---- 杂项 ----
+*.log
+Thumbs.db
+desktop.ini
